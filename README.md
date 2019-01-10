@@ -1,4 +1,4 @@
-# DeepLearning
+## Deep Learning using neural networks
 This repository contains deep learning projects, completed as part of course work for Artificial Intelligence Nanodegree with Udacity in 2017.
 
 ### Dog Breed Classifier
